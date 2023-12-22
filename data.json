@@ -1,0 +1,58 @@
+{
+  "movies": [
+    {
+      "image": "./media/BatmanImage.webp",
+      "video": "./media/BatmanVideo.mp4",
+      "title": "Batman",
+      "year": 2022,
+      "duration": "2h 56min",
+      "rating": 14,
+      "indications": "3 indicações ao OSCARS®",
+      "description": "Um assassino ameaça a elite de Gotham e chama a atenção do Batman. Com a investigação esquentando, ele precisará...",
+      "watch": 50
+    },
+
+    {
+      "image": "./media/TheBoysImage.webp",
+      "video": "./media/TheBoysVideo.mp4",
+      "title": "The Boys",
+      "year": 2020,
+      "rating": 18,
+      "indications": "1 indicações ao PRIMETIME EMMYS® em 2023",
+      "description": "Temporada 2・Em uma segunda temporada mais intensa e mais desesperada de THE BOYS, Butcher,...",
+      "watch": 80
+    },
+
+    {
+      "image": "./media/TheHighCastleImage.webp",
+      "video": "./media/TheHighCastleVideo.mp4",
+      "title": "The Man in the High Castle",
+      "year": 2018,
+      "rating": 16,
+      "indications": "3 indicações ao PRIMETIME EMMYS® em 2019",
+      "description": "Temporada 3・Juliana descobre um perigoso plano nazista para conquistar a supremacia absoluta e, para detê-lo, de...",
+      "watch": 150
+    },
+
+    {
+      "image": "./media/TheSummerImage.webp",
+      "video": "./media/TheSummerVideo.mp4",
+      "title": "The Summer I Turned Pretty",
+      "year": 2022,
+      "rating": "A16",
+      "description": "Temporada 2・Belly costumava contar os dias para voltar a Cousins Beach, mas com Conrad e Jeremiah brigando por seu amor...",
+      "watch": 200
+    },
+
+    {
+      "image": "./media/TheOfficeImage.webp",
+      "video": "./media/TheOfficeVideo.mp4",
+      "title": "The Office",
+      "year": 2005,
+      "rating": 10,
+      "indications": "1 PRIMETIME EMMYS® em 2013",
+      "description": "Temporada 1・Na primeira temporada de The Office, o gerente regional da Dunder Mifflin, Michael Scott (Steve Carell),...",
+      "watch": 35
+    }
+  ]
+}
